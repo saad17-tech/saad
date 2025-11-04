@@ -1,5 +1,5 @@
 ---
-layout: defaulet 
+layout: default
 title: Inicio
 ---
 
