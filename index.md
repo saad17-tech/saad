@@ -1,6 +1,10 @@
 ---
-layout: default
+layout: splash 
 title: Inicio
+header:
+ overlay-color: "000"
+ overlay-filter: "0"
+ overlay-image:https://3.bp.blogspot.com/-wdk8M3w2JW0/VV8W1VwtVUI/AAAAAAAACLM/XUjxSpGrSXo/s320/LOGO%2BPRINCIPAL.bmp
 ---
 
 # ¡Bienvenido a mi sitio web: saad omari!
