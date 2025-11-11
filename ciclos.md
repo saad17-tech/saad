@@ -26,4 +26,20 @@ permalimk: /ciclos/
 |2|    Proyecto intermodular de aprendizaje colaborativo|    50|
 
 ## Servicios administrativos
+| Curso |    Módulo Profesional |    Horas totales |
+|1|    Tratamiento informático de datos |    300
+|1|    Técnicas administrativas básicas |    260
+|1|    Atención al cliente |    75
+|1|    Ciencias aplicadas | 140
+|1|    Comunicación y sociedad | 140
+|1|    Tutoría |    30
+|11    Itienerario personal para la empleabilidad |    55
+|2|    Aplicaciones básicas de ofimática |    310
+|2|    Archivo y comunicación |    200
+|2|    Preparación de pedidos y venta de productos |    150
+|2|    Ciencias aplicadas | 130
+|2|    Comunicación y sociedad | 130
+|2|    Tutoría |    30
+|2|    Proyecto intermodular de aprendizaje colaborativo |    50
+
 ## Alojamiento y lavandería
