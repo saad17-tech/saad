@@ -1,6 +1,8 @@
 main:
   - title: "Inicio"
     url: /
+  - title: "Ciclos informativos"
+    url: /ciclos/
   - title: "Sobre mí"
     url: /acercade/
   - title: "Contacto"
