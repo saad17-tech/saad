@@ -1,3 +1,10 @@
-title: Mi sitio web sencillo
-description: Págena creada  con Jekyll y Github pages 
-thema: minima 
+title: "Mi sitio web sencillo"
+description: "Página creada con Jekyll y GitHub Pages"
+remote_theme: "mmistakes/minimal-mistakes@4.24.0"
+plugins:
+  - jekyll-include-cache
+
+header_pages:
+  - index.md
+  - about.md
+  - contact.md
