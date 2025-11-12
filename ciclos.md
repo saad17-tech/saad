@@ -1,7 +1,8 @@
 ---
-layout: splash
+layout: single
 title: ciclos formativos
 permalimk: /ciclos/
+toc: true
 ---
 
 # C.F. de Grado Medio
