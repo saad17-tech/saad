@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: single
 title: Acerca de 
 permalink: /acercade/
 ---
